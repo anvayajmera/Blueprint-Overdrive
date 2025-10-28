@@ -25,9 +25,17 @@ Pictures of 3D Model:
 
 
 
-Bill of Materials:
+Bill of Materials (refer to bom.csv):
 
 
+<img width="558" height="561" alt="Screenshot 2025-10-27 at 9 48 36 PM" src="https://github.com/user-attachments/assets/a2c2d43e-e908-4ab8-913a-ab20b94aa110" />
+
+
+
+
+
+
+CSV style:
 ,,,,,,,,
 ,,Overdrive Bill of Materials,,Green = bought already,,Red = need to buy,,
 ,,,,,,,,
