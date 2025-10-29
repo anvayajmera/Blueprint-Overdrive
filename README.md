@@ -26,7 +26,7 @@ Pictures of 3D Model:
 
 
 Bill of Materials (refer to bom.csv):
-
+**NOTE: I already talked to two reviewers from Blueprint abt the fact that I need to purchase my parts from Amazon due to robotics team requirements and recommendations from past winners. Moreover, for the parts I wish to buy, I have already tested some of the AliExpress versions, like the VL6180X. This turned out to be extremely imprecise and inconsistent, even with calibration, which is why we would like to focus on Amazon (and Polulu/Adafruit if needed) so we can purchase the exact parts we need and return any excess parts if required.**
 
 <img width="558" height="561" alt="Screenshot 2025-10-27 at 9 48 36 PM" src="https://github.com/user-attachments/assets/a2c2d43e-e908-4ab8-913a-ab20b94aa110" />
 
