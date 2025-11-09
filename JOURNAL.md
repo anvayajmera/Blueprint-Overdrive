@@ -125,7 +125,7 @@ Lastly, bumps were added to the wings so that when one side tilts downward, and 
 
 ## 11/9/2025 11:27 AM - 3D printed and tested claw iterations  
 
-I started to 3D print and test claw iterations (around 4). I needed to print it multiple times to tweak minor things, but this built version will likely be our final one (we might add stuff later tho)!
+Partner started to 3D print and test claw iterations (around 4). He needed to print it multiple times to tweak minor things, but this built version will likely be our final one (we might add stuff later tho)!
 
 ![Screenshot 2025-11-09 at 10.35.29 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--de00eea9ed80e21c43df7febfa1ecd269e399ec8/Screenshot%202025-11-09%20at%2010.35.29%E2%80%AFAM.png)
   
