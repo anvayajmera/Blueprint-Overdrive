@@ -158,3 +158,11 @@ I soldered wires onto each of the motors since it was clear that it would be too
 
   
 
+## 11/9/2025 11:41 AM - Iterated complete main connection circuit of the robot  
+
+I spent a lot of time getting this circuit to be perfect since it was the primary electronic component of our robot. If something goes wrong here, the entire robot will be affected. Originally, I made the mistake of not knowing that there was a type of switch that only turns on when you hold it, and flips back off once you release it. Unfortunately, because of this, I had to restart everything with the proper switch. Other things I had to work on here was making good solder connections, putting heatshrink over every connection, looking at what wire lengths were the most optimal, and testing voltage of each part along the way. Another major event was that one of the buck boost converters stopped displaying voltage, which made me very confused. After over an hour of trying to figure out what happened, I realized the internal wire connection it came with was really, REALLY, bad. I fixed it, though, and the wiring works now!
+
+
+![Screenshot 2025-11-09 at 11.37.36 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--46a00294c9f500694adb9bc52176e4b98812041f/Screenshot%202025-11-09%20at%2011.37.36%E2%80%AFAM.png)
+  
+
