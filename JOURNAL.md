@@ -137,3 +137,12 @@ I started to 3D print and test claw iterations (around 4). I needed to print it 
 
 We printed ALL the parts for the robot, with many having a great amount of tree supports that needed to be removed using flush cutters. Also, many times, the print ended up being unsuccessful due to starting the print too fast, print sticking off, or even some form of random error.  
 
+## 11/9/2025 11:33 AM - Planned out what parts would go to what battery  
+
+Most of this time was spent ideating and chatting between teamates. Since we have 2 4200mah LiPo batteries, we needed to find a good split between parts to make sure both run out at around the same time period. Note that one battery is solely powering the Jetson Orin Nano. This is because we realized that other power consuming parts, like the LED, can be attached to the USB port of the Jetson Orin Nano. 
+
+![Screenshot 2025-11-09 at 11.31.12 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3MywicHVyIjoiYmxvYl9pZCJ9fQ==--4373e474d871f85b84f091cf7b2f1036822b9089/Screenshot%202025-11-09%20at%2011.31.12%E2%80%AFAM.png)![Screenshot 2025-11-09 at 11.31.19 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--028af63634b1a8e1460a6046cfe576fa633f2d31/Screenshot%202025-11-09%20at%2011.31.19%E2%80%AFAM.png)
+
+
+  
+
