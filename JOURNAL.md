@@ -166,3 +166,10 @@ I spent a lot of time getting this circuit to be perfect since it was the primar
 ![Screenshot 2025-11-09 at 11.37.36 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--46a00294c9f500694adb9bc52176e4b98812041f/Screenshot%202025-11-09%20at%2011.37.36%E2%80%AFAM.png)
   
 
+## 11/9/2025 11:50 AM - Finalized Display Port wire (sob)  
+
+This one was a nightmare. So, we knew that we were NOT going to rely on something like VNC Viewer on competition day (if ykyk) and the clear path to take was the old keyboard and mouse route. However, once the robot was built, these ports would be completely inaccessible, meaning we needed extender wires attached to the ports beforehand that come out to an external point of the robot that we could access. Originally, I thought that the Jetson Orin Nano was going to use an HDMI port. But, after taking a closer look, it was a Display Port. The problem with this was that when I ended up buying an extender for this, it was WAY too thick and did not fit. I even cut one open to see if removing the plastic shell could help (it did not). So, I had to buy 6 different versions before coming across a slim fit version seen in the picture.. A great learning experience, but it was very annoying. 
+
+![Screenshot 2025-11-09 at 11.46.43 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1f989da26f477ef9bfb7bcadf57a70cd552b0eee/Screenshot%202025-11-09%20at%2011.46.43%E2%80%AFAM.png)
+  
+
