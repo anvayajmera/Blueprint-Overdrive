@@ -146,3 +146,15 @@ Most of this time was spent ideating and chatting between teamates. Since we hav
 
   
 
+## 11/9/2025 11:35 AM - Soldered wires onto motors   
+
+I soldered wires onto each of the motors since it was clear that it would be too hard to do once the motors are already on the robot. I wanted to attach heatshrink to the connection ports of the motors, but when i tried to do this, the heatstrink would just stick off of the ports and not work. Either way, I'm hoping that this has a good enough connection. 
+
+
+
+
+![Screenshot 2025-11-09 at 11.33.50 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3NiwicHVyIjoiYmxvYl9pZCJ9fQ==--920cce9001b44265c6371627c442402bfb08d386/Screenshot%202025-11-09%20at%2011.33.50%E2%80%AFAM.png)
+
+
+  
+
