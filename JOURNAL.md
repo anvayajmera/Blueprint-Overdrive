@@ -123,10 +123,17 @@ Lastly, bumps were added to the wings so that when one side tilts downward, and 
 ![Screenshot 2025-10-25 at 11.35.31 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--9f990e97873fa4c5446fc0342d1fab33404eee74/Screenshot%202025-10-25%20at%2011.35.31%E2%80%AFPM.png)
   
 
-## 11/9/2025 - 3D printed and tested claw iterations  
+## 11/9/2025 11:27 AM - 3D printed and tested claw iterations  
 
 I started to 3D print and test claw iterations (around 4). I needed to print it multiple times to tweak minor things, but this built version will likely be our final one (we might add stuff later tho)!
 
 ![Screenshot 2025-11-09 at 10.35.29 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--de00eea9ed80e21c43df7febfa1ecd269e399ec8/Screenshot%202025-11-09%20at%2010.35.29%E2%80%AFAM.png)
   
+
+## 11/9/2025 11:30 AM - Printed all parts and took off supports  
+
+(FYI I'm logging the time spent to adjust the 3d printer and take off supports)
+![Screenshot 2025-11-09 at 10.37.31 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9be18874e349d455715fb0ebc9e10090b398fa6/Screenshot%202025-11-09%20at%2010.37.31%E2%80%AFAM.png)
+
+We printed ALL the parts for the robot, with many having a great amount of tree supports that needed to be removed using flush cutters. Also, many times, the print ended up being unsuccessful due to starting the print too fast, print sticking off, or even some form of random error.  
 
