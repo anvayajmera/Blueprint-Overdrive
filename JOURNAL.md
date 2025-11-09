@@ -173,3 +173,10 @@ This one was a nightmare. So, we knew that we were NOT going to rely on somethin
 ![Screenshot 2025-11-09 at 11.46.43 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--1f989da26f477ef9bfb7bcadf57a70cd552b0eee/Screenshot%202025-11-09%20at%2011.46.43%E2%80%AFAM.png)
   
 
+## 11/9/2025 11:51 AM - Finalized LiPo Charger  
+
+Our original one didn't work so we looked throughout Amazon to find a good LiPo charger. We chose this one, and it was absolutely amazing (50W per hour)!! The UI was great too.
+
+![Screenshot 2025-11-09 at 11.50.26 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--9eb2db9ee8c86610136481f02448166001971123/Screenshot%202025-11-09%20at%2011.50.26%E2%80%AFAM.png)
+  
+
