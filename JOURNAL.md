@@ -132,6 +132,7 @@ I started to 3D print and test claw iterations (around 4). I needed to print it 
 
 ## 11/9/2025 11:30 AM - Printed all parts and took off supports  
 
+(PARTNER WORK & MY WORK)
 (FYI I'm logging the time spent to adjust the 3d printer and take off supports)
 ![Screenshot 2025-11-09 at 10.37.31 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTc3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9be18874e349d455715fb0ebc9e10090b398fa6/Screenshot%202025-11-09%20at%2010.37.31%E2%80%AFAM.png)
 
