@@ -1,14 +1,19 @@
 # Blueprint-Overdrive
 
-Hey! Our team of 3 (with me being the person who submits) will spend this school year working on a robot for RoboCup Junior's Rescue Line challenge. Our competition will take place in April, and our goal is to secure first place, allowing us to compete internationally at the RCJ 2026 event in South Korea.
-
-We want to participate in Blueprint to secure funding for some of the components that go into making this robot, including motors, a Jetson Nano, batteries, and other external supplies.
-
+**Description:**
+Hey! Our team of 3 (with me submitting) will spend this school year working on a robot for RoboCup Junior's Rescue Line challenge. Our competition will take place in April, and our goal is to secure first place, allowing us to compete internationally at the RCJ 2026 event in South Korea. 
 Here's a rough timeline for us so far:
 **August:** Planning Stage
 **September–October:** 3D Modeling
 **October–December:** Building
 **January–April:** Coding and Testing
+
+
+**Why:**
+We're interested in being involved with robotics without needing an FRC-level commitment, but without control over what gets done. RoboCup Junior is the perfect solution to this, as we can stay a team of 3, contribute to all parts of development, and focus our software on AI-powered models for line following and victim detection. We want to participate in Blueprint to secure funding for some of the components that go into making this robot, including motors, a Jetson Nano, batteries, and other external supplies.
+
+**How:**
+Our robot is specifically designed to be able to traverse the full RoboCup Junior Rescue Line map. To use the motors and various sensors on our robot, you have to turn on the main switch that gives power to the motors and Jetson Orin Nano. We extended the HDMI and USB hubs using extender cables to access them when the robot is fully built. From here, since we're using a Seeed Studio for PWM, the servos and motors can technically be accessed through VS Code on the Jetson interface. As for all of the sensors connected directly to its 40-pin header, those need to be accessed using terminal commands. We're working out a better solution soon to make this easier (all of us are still learning). 
 
 
 
