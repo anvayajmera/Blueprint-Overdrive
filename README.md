@@ -32,8 +32,8 @@ Pictures of 3D Model:
 
 Bill of Materials (refer to bom.csv):
 
+<img width="618" height="561" alt="Screenshot 2026-01-24 at 3 45 35 PM" src="https://github.com/user-attachments/assets/0d1c8b56-9a5b-4872-b27e-e46cc5219c33" />
 
-<img width="558" height="561" alt="Screenshot 2025-10-27 at 9 48 36 PM" src="https://github.com/user-attachments/assets/a2c2d43e-e908-4ab8-913a-ab20b94aa110" />
 
 
 
@@ -41,34 +41,3 @@ Bill of Materials (refer to bom.csv):
 
 
 CSV style:
-,,,,,,,,
-,,Overdrive Bill of Materials,,Green = bought already,,Red = need to buy,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,Category,Part Name,Bought?,Part Link,Units,Unit Cost,Cost
-,,Batteries & Power,HOOVO 3S LiPo Battery 4200mAh 120C 11.4V,Bought Already,Link,6, $ 38.00 , $ 228.00 
-,,Batteries & Power,DROK Boost Converter 9–36V to 12V 5A 60W,Bought Already,Link,2, $ 19.00 , $ 38.00 
-,,Batteries & Power,DC-DC Buck Converter 4–38V to 1.25–36V 5A,Bought Already,Link,1, $ 8.49 , $ 8.49 
-,,Batteries & Power,USB Mini LED Light Strip,Bought Already,Link,1, $ 10.00 , $ 10.00 
-,,Batteries & Power,Screw Terminal,Bought Already,Link,1, $ 14.00 , $ 14.00 
-,,Batteries & Power,Voltage detectors,Bought Already,Link,2, $ 3.00 , $ 6.00 
-,,Motors & Actuators,Greartisan 12V 20RPM DC Gear Motor,Bought Already,Link,4, $ 15.00 , $ 60.00 
-,,Motors & Actuators,TB6612FNG Dual Motor Driver Module,Bought Already,Link,4, $ 5.00 , $ 20.00 
-,,Motors & Actuators,MG90s microservo,Need to Buy,Link,1, $ 23.98 , $ 23.98 
-,,Motors & Actuators,25KG High Torque RC Servo,Need to Buy,Link,1, $ 16.99 , $ 16.99 
-,,Control Boards,NVIDIA Jetson Orin Nano 8GB,Need to Buy,Link,1, $ 250.00 , $ 250.00 
-,,Control Boards,Arduino Nano V3 (ATmega328P),Need to Buy,Link,1, $ 25.00 , $ 25.00 
-,,Sensors/devices,MPU-6050 Gyroscope Accelerometer Module,Need to Buy,Link,1, $ 6.99 , $ 6.99 
-,,Sensors/devices,VL6180X Time-of-Flight Sensor,Bought Already,Link,2, $ 4.50 , $ 9.00 
-,,Sensors/devices,VL53L4CD Time-of-Flight Sensor,Need to Buy,Link,5, $ 15.00 , $ 75.00 
-,,Sensors/devices,5V Relay Module (Single Channel),Bought Already,Link,1,4, $ 4.00 
-,,Sensors/devices,OLED Display Screen,Bought Already,Link,1, $ 6.00 , $ 6.00 
-,,Sensors/devices,USB Camera 1,Need to Buy,Link,1, $ 69.99 , $ 69.99 
-,,Sensors/devices,USB Camera 2,Bought Already,Link,1, $ 74.99 , $ 74.99 
-,,Cables,HDMI Extension Cable (Male to Male),Bought Already,Link,1, $ 15.00 , $ 15.00 
-,,Cables,USB Extension Cable (Type-A Male to Female),Bought Already,Link,2, $ 4.00 , $ 8.00 
-,,Cables,Arduino Nano Blue Cable,Bought Already,Link,1, $ 4.00 , $ 4.00 
-,,Cables,NVDIA Jetson Orin Nano Cable,Bought Already,Link,1,9.99, $ 9.99 
-,,Other,"Wires, chargers, 3D prints, screws, heatshrink, mechanical parts, etc",Bought Already,N/A,N/A, N/A , $ 268.00 
-,,Total,,,,,," $ 1,241.43 "
