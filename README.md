@@ -44,8 +44,6 @@ Bill of Materials (refer to bom.csv):
 
 
 BOM in Table Format:
-[Overdrive Bill of Materials - BillOfMaterials (3).csv](https://github.com/user-attachments/files/24839998/Overdrive.Bill.of.Materials.-.BillOfMaterials.3.csv)## Overdrive Bill of Materials
-
 [Overdrive Bill of Materials (CSV)](https://github.com/user-attachments/files/24839998/Overdrive.Bill.of.Materials.-.BillOfMaterials.3.csv)
 
 | Category | Part Name | Bought? | Part Link | Units | Unit Cost | Cost |
