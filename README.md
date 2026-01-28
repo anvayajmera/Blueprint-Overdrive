@@ -28,6 +28,9 @@ Pictures of 3D Model:
 
 
 
+Wiring Diagram:
+<img width="1371" height="630" alt="Screenshot 2026-01-27 at 7 05 13 PM" src="https://github.com/user-attachments/assets/5d4e65d1-0fde-4e04-aa95-dab584fe946b" />
+
 
 
 Bill of Materials (refer to bom.csv):
