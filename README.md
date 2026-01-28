@@ -64,7 +64,3 @@ bom.csv reference: [Overdrive Bill of Materials (CSV)](https://github.com/user-a
 | Cables | NVIDIA Jetson Orin Nano Cable | Bought Already | [Link](https://www.amazon.com/GINTOOYUN-Extension-Adapter-Cable%EF%BC%8C3FT-Monitors/dp/B0B6HT38QD/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_3/130-2715981-6500301?pd_rd_w=m4zHR&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=TWDSD8CQ80DWP7R5GBNP&pd_rd_wg=K9Yf1&pd_rd_r=79dcc2d2-e879-479c-bc0b-f50622ba9f4a&pd_rd_i=B0B6HT38QD&psc=1) | 1 | $9.99 | $9.99 |
 | Other | Wires, chargers, 3D prints, screws, heatshrink, mechanical parts, etc | Bought Already | N/A | N/A | N/A | $268.00 |
 | **Total** |  |  |  |  |  | **$1,236.43** |
-
-| Cables | NVIDIA Jetson Orin Nano Cable | Bought Already | [Link](https://www.amazon.com/GINTOOYUN-Extension-Adapter-Cable%EF%BC%8C3FT-Monitors/dp/B0B6HT38QD/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_3/130-2715981-6500301?pd_rd_w=m4zHR&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=TWDSD8CQ80DWP7R5GBNP&pd_rd_wg=K9Yf1&pd_rd_r=79dcc2d2-e879-479c-bc0b-f50622ba9f4a&pd_rd_i=B0B6HT38QD&psc=1) | 1 | $9.99 | $9.99 |
-| Other | Wires, chargers, 3D prints, screws, heatshrink, mechanical parts, etc | Bought Already | N/A | N/A | N/A | $268.00 |
-| **Total** |  |  |  |  |  | **$1,237.45** |
