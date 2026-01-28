@@ -33,18 +33,9 @@ Wiring Diagram:
 
 
 
-Bill of Materials (refer to bom.csv):
-
-<img width="618" height="561" alt="Screenshot 2026-01-24 at 3 45 35 PM" src="https://github.com/user-attachments/assets/0d1c8b56-9a5b-4872-b27e-e46cc5219c33" />
-
-
-
-
-
-
-
-BOM in Table Format:
-[Overdrive Bill of Materials (CSV)](https://github.com/user-attachments/files/24839998/Overdrive.Bill.of.Materials.-.BillOfMaterials.3.csv)
+Bill of Materials in Table Format:
+bom.csv reference: [Overdrive Bill of Materials (CSV)](https://github.com/user-attachments/files/24839998/Overdrive.Bill.of.Materials.-.BillOfMaterials.3.csv)
+## Overdrive Bill of Materials (Updated)
 
 | Category | Part Name | Bought? | Part Link | Units | Unit Cost | Cost |
 |:--|:--|:--|:--|--:|--:|--:|
@@ -55,11 +46,11 @@ BOM in Table Format:
 | Batteries & Power | Screw Terminal | Bought Already | [Link](https://www.amazon.com/dp/B093PWRJS9?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_6) | 1 | $14.00 | $14.00 |
 | Batteries & Power | Voltage detectors | Bought Already | [Link](https://www.amazon.com/Aoicrie-Battery-Checker-Detector-Indicator/dp/B07VR4SV8C?ie=UTF8&th=1) | 2 | $3.00 | $6.00 |
 | Motors & Actuators | Greartisan 12V 20RPM DC Gear Motor | Bought Already | [Link](https://www.amazon.com/dp/B071KFT4PC?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) | 4 | $15.00 | $60.00 |
-| Motors & Actuators | TB6612FNG Dual Motor Driver Module | Bought Already | [Link](https://www.amazon.com/dp/B0CBLTFDZ3?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_4) | 4 | $5.00 | $20.00 |
+| Motors & Actuators | Adafruit DRV8871 DC Motor Driver Breakout Board (3.6A max) | Need to Buy | [Link](https://www.adafruit.com/product/3190) | 4 | $7.50 | $30.00 |
 | Motors & Actuators | MG90s microservo | Bought Already | [Link](https://www.amazon.com/MG90S-Servo-Motor-Helicopter-Arduino/dp/B01JY3H4MA/ref=sr_1_1_sspa?crid=2Y68CMGWUMZK8&dib=eyJ2IjoiMSJ9.Ob8kzKrp-maqOMgCtxQJwM9MSR90LW6-Hmrg7EFqs6I.eXq8BULKm09DFfVs5NwK4n9n9ParIjJypa-bcVCDwDY&dib_tag=se&keywords=6+pack+microservo&qid=1761597978&sprefix=6+pack+microservo%2Caps%2C90&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) | 8 | $2.50 | $20.00 |
 | Motors & Actuators | 25KG High Torque RC Servo | Bought Already | [Link](https://www.amazon.com/Miuzei-Waterproof-Compatible-Steering-Horn%EF%BC%88270%C2%B0%EF%BC%89/dp/B0C5LWHTQ1/ref=sr_1_2?crid=2L50FJTWW8LGM&dib=eyJ2IjoiMSJ9.4gQlLnVL64R4rCvHH7G2zc7y-D2geU2xHJOrlskCWdDpbwS77mImyNg0SeViuFwnLOG8RmvelCQaz9IbNPlCUJ_hqE3fATvTFSrVKC5A093tb3xXBPpCml8OdEanRNLdFlPlPPtbQV_lKJyFVi5yXPwubgfqGJLZ8PVcL-249pn3L1rML3ynZ05-4NW8iG9kXt6MdlA2ErOw2dE9qDLpavC-KQM9gq9TZEiE7X_m--puFrE4R-zjkcOSKVesQ_o7TKQ3AT2AjQGVaCHh29rzkkJNYEaPwGnc3ERg-nRFHns.1m4ZFQZXkst3ZExsZb4_29TN86lY2U3KI4DFnVIYIPc&dib_tag=se&keywords=eso8ma%2Bservo%2Breadytoski&qid=1761597918&sprefix=eso8ma%2Bservo%2Breadytoski%2Caps%2C65&sr=8-2&th=1) | 1 | $16.99 | $16.99 |
 | Control Boards | NVIDIA Jetson Orin Nano 8GB | Bought Already | [Link](https://www.amazon.com/NVIDIA-Jetson-Orin-Nano-Developer/dp/B0BZJTQ5YP?th=1) | 1 | $250.00 | $250.00 |
-| Control Boards | Arduino Nano V3 (ATmega328P) | Bought Already | [Link](https://www.amazon.com/Arduino-A000005-ARDUINO-Nano/dp/B0097AU5OU/ref=sr_1_6?crid=3UGHXN7JMDHFD&dib=eyJ2IjoiMSJ9.lGGUnkwyBAbnKti6S6SwYKSQRut7fCFLdJD1zBP3o-8j__LzbrXXIPxJtrGeuzfuuKqHvzhMgJdsEychcjhOS0BsmBVbp_4IggzGZLmPaBxR0xcDL7dlvA9Ng4FzdUIRh2g1R5lrPalwvprGrD2WJuLkhn__hZ82ebjvknAjKwh2K2p_HJPJ7IHoa5vunKFQT4vP5SG7AVMNkOBeYMs4bX6_F3zqiIyjqdQZOTmwy2c.jd2zOjs58tPZ2O1sql0BnUxmm9-2oBacZffakWgmTQo&dib_tag=se&keywords=arduino+nano&qid=1761595528&sprefix=arduino+nano%2Caps%2C159&sr=8-6) | 1 | $25.00 | $25.00 |
+| Control Boards | Seeed Studio XIAO RP2040 (v1.0) | Need to Buy | [Link](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) | 1 | $3.99 | $3.99 |
 | Sensors/devices | MPU-6050 Gyroscope Accelerometer Module | Bought Already | [Link](http://amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B01DK83ZYQ/ref=sr_1_4?dib=eyJ2IjoiMSJ9.17CgYbfJeLaKBTknvMMfsxPPQVLmfP4RI9hGN7HD_fi7J3VQzgjUTgghFuXdxplvcYuGCb5gIyO9P0pFnVyHerk_ai7k2wtlEQvJQZXwq2BzOvPEggPqI2GQH5D3vmhOIqlfCsr2zLtsWWft4OeGK_CeRsSOu7WEgZesnHNaPSJ0jr45TiTXt85AB34Q_HpHQ-RFMgwNK0JojOB9S3bThL0nxdZpiIWbsUyHY8jGg18._uSEmocByBL4_tIE-b3kG6gLKeNOjPZJv7WnabBOBU0&dib_tag=se&keywords=mpu6050&qid=1761614660&sr=8-4) | 1 | $6.99 | $6.99 |
 | Sensors/devices | VL6180X Time-of-Flight Sensor | Bought Already | [Link](https://www.amazon.com/VL6180X-TOF050C-Ranging-Modules-Distance/dp/B0F4XBZ998?crid=XYQSMHTSPIRM&dib=eyJ2IjoiMSJ9.zLn9XQg8ko5KSx59x5Bpmjdc-QKpAOcKn9-w8dP1UT9jB7y47emsy_IuZVqkM-klCmC-Aj_RMPR_rA3czrHRkaeVH5pGuhFaXUgPxzCUGDwO3tuE0K4geNjtpXn4IajOYfCjv1CyCfOzWu__nZsZo_-BQv2uR5gNHHL4Gf3pRFFGn5w0sss63YnNVUANThCvx5CFKie75nlxhorzCFhQnOy5OTRXqYbAUdPJc9Rm_9zNe9uN0W5wXFEKrDUX9QQRZ_b3qFePx7FFUGVXm3DInv9E2a77gXCR0B2DxwBntqk.4pMiuUYK6p8Y1aWNEjc8B910JqMq5hVy8-T4e3OqqPQ&dib_tag=se&keywords=VL6180X&qid=1754161326&sprefix=vl53l0x%2Caps%2C395&sr=8-6) | 2 | $4.50 | $9.00 |
 | Sensors/devices | VL53L4CD Time-of-Flight Sensor | Bought Already | [Link](https://www.adafruit.com/product/5396) | 5 | $15.00 | $75.00 |
@@ -70,6 +61,10 @@ BOM in Table Format:
 | Cables | HDMI Extension Cable (Male to Male) | Bought Already | [Link](https://www.amazon.com/dp/B0DB168WTN?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1) | 1 | $15.00 | $15.00 |
 | Cables | USB Extension Cable (Type-A Male to Female) | Bought Already | [Link](https://www.amazon.com/dp/B0C653NV2Q?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1) | 2 | $4.00 | $8.00 |
 | Cables | Arduino Nano Blue Cable | Bought Already | [Link](https://www.amazon.com/DIYables-Mini-Cable-Arduino-Pieces/dp/B0C7BMS5FG/ref=sr_1_2?crid=37VGKR0QC6INL&dib=eyJ2IjoiMSJ9.v1tzJDSy1bp48ogqVHIitl-V79n4CyZZ3LOifvzNvyoN53LhvwLe8PqXbF5MSHHrex4coi_G_GvN3IyHiy8TLlc50ZGbAUFsyX_yH3IsEnyLgoRVloPGn81UcZzGcfdV1KyFQt_VeQb3OrBWvcllTxIQTuhQkMB0vBT0sLpxw-t3a1SOrS58n0ed81-82CHDKdNOZRumBtvznb_iIrMMIrpS0BSi3ZpR0FMXb4nFD-MDAzNMNXtprAQXrU8IOhxE9yUtAWJG-SZVFjwo6Oz0ip2ifQbeXPkK6O9ADGVM7tE.EjReWGOaMPEAnR-BP_jD4xO-kbwx-yYT520nlUvEfBM&dib_tag=se&keywords=arduino%2Bnano%2Bcable&qid=1761595338&s=industrial&sprefix=arduuino%2Bnano%2Bcabl%2Cindustrial%2C132&sr=1-2&th=1) | 1 | $4.00 | $4.00 |
+| Cables | NVIDIA Jetson Orin Nano Cable | Bought Already | [Link](https://www.amazon.com/GINTOOYUN-Extension-Adapter-Cable%EF%BC%8C3FT-Monitors/dp/B0B6HT38QD/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_3/130-2715981-6500301?pd_rd_w=m4zHR&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=TWDSD8CQ80DWP7R5GBNP&pd_rd_wg=K9Yf1&pd_rd_r=79dcc2d2-e879-479c-bc0b-f50622ba9f4a&pd_rd_i=B0B6HT38QD&psc=1) | 1 | $9.99 | $9.99 |
+| Other | Wires, chargers, 3D prints, screws, heatshrink, mechanical parts, etc | Bought Already | N/A | N/A | N/A | $268.00 |
+| **Total** |  |  |  |  |  | **$1,236.43** |
+
 | Cables | NVIDIA Jetson Orin Nano Cable | Bought Already | [Link](https://www.amazon.com/GINTOOYUN-Extension-Adapter-Cable%EF%BC%8C3FT-Monitors/dp/B0B6HT38QD/ref=pd_rhf_se_s_pd_sbs_rvi_d_sccl_2_3/130-2715981-6500301?pd_rd_w=m4zHR&content-id=amzn1.sym.6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_p=6640a844-ab24-4352-ac9b-78899e683a5e&pf_rd_r=TWDSD8CQ80DWP7R5GBNP&pd_rd_wg=K9Yf1&pd_rd_r=79dcc2d2-e879-479c-bc0b-f50622ba9f4a&pd_rd_i=B0B6HT38QD&psc=1) | 1 | $9.99 | $9.99 |
 | Other | Wires, chargers, 3D prints, screws, heatshrink, mechanical parts, etc | Bought Already | N/A | N/A | N/A | $268.00 |
 | **Total** |  |  |  |  |  | **$1,237.45** |
